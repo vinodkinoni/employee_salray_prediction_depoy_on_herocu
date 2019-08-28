@@ -3,4 +3,4 @@
 
 
 
-          Demo of prediction ink
+          Demo of prediction link
